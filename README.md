@@ -9,19 +9,15 @@
   Hi, I'm Haoyu Liu, a Software Engineer 💻
   <br>
   <br>
-  🎓 Graduated from - <a href="#"><img src="./UC-Berkeley-logo.png" alt="UCB" title="UCB" align="center" width="200" height="150"/></a>
-
-
+  🎓 Graduated from - <a href="#"><img src="./UC-Berkeley-logo.png" alt="UCB" title="UCB" align="center" width="150" height="75"/></a>
   <br>
   💻 I love to learn new technologies and frameworks.
   <br>
 </p>
 
 <div align="center"> 
-  <a href="https://www.youtube.com/channel/UCUrghtGYhkas_MoGzgSKaQA?app=desktop" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:kushaltanna01@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://in.linkedin.com/in/kushal-tanna-870ba7215" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "liu_haoyu@berkeley.edu"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="www.linkedin.com/in/haoyu-liu666" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
  <div>

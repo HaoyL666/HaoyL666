@@ -9,7 +9,7 @@
   Hi, I'm Haoyu Liu, a Software Engineer 💻
   <br>
   <br>
-  🎓 Graduated from - <a href="#"><img src="./UC-Berkeley-logo.png" alt="UCB" title="UCB" align="center" width="200" height="100"/></a>
+  🎓 Graduated from - <a href="#"><img src="./UC-Berkeley-logo.png" alt="UCB" title="UCB" align="center" width="200" height="150"/></a>
 
 
   <br>

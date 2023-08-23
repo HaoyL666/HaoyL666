@@ -11,7 +11,7 @@
   <br>
   🎓 Graduated from - <a href="#"><img src="./UC-Berkeley-logo.png" alt="UCB" title="UCB" align="center" width="150" height="75"/></a>
   <br>
-  💻 I love to learn new technologies and frameworks.
+  💻 I love to learn new technologies and frameworks 💻
   <br>
 </p>
 
@@ -21,7 +21,7 @@
 </div>
 
  <div>
-  <a href="https://github.com/eagrundy">
+  <a href="https://github.com/HaoyL666">
    <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaoyL666&layout=compact&langs_count=16&theme=dracula"/>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=HaoyL666&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
 </div>

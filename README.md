@@ -24,7 +24,7 @@
   <a href="https://github.com/HaoyL666">
    <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaoyL666&layout=compact&langs_count=16&theme=dracula"/>
   <!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=HaoyL666&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/> -->
-  <img align="right" alt="Coding" height="170" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--sNXjzc6P--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://media1.tenor.com/images/0c34272909ee2a4db5606a014082312b/tenor.gif%3Fitemid%3D15828752">
+  <img align="center" alt="Coding" height="170" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--sNXjzc6P--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://media1.tenor.com/images/0c34272909ee2a4db5606a014082312b/tenor.gif%3Fitemid%3D15828752">
 </div>
 
 <hr>
@@ -40,7 +40,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HaoyL666/HaoyL666/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HaoyL666/HaoyL666/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/HaoyL666/HaoyL666/output/github-contribution-grid-snake-dark.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/HaoyL666/HaoyL666/output/github-contribution-grid-snake.svg">
 </picture>
 
 

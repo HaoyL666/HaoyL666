@@ -1,20 +1,19 @@
-## Hi, I am Haoyu Liu! 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+Myself+Kushal+Tanna!;&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+Myself+Haoyu+Liu!;&center=true&size=30">
   </a>
 </h1>
 
 <br>
 <p align="center">
-  Hi, I'm Kushal Tanna, Web Developer/Coder 🥷,  Learner 👨‍💻 &  gamer 🦸‍♂️ from India 🇮🇳
+  Hi, I'm Haoyu Liu, a Software Engineer 💻
   <br>
   <br>
-  🎓 Completed my masters degree from <a href="https://www.daiict.ac.in/"> DAIICT.</a>
+  🎓 Graduated from - <a href="#"><img src="./UC-Berkeley-logo.png" alt="UCB" title="UCB" align="center"/></a>
+
+
   <br>
   💻 I love to learn new technologies and frameworks.
-  <br>
-  🧑‍💼 I’m currently working as MERN stack developer at <a href="https://www.codezeros.com/"> CODEZEROS </a>
   <br>
 </p>
 
@@ -23,7 +22,12 @@
  <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:kushaltanna01@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://in.linkedin.com/in/kushal-tanna-870ba7215" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
+</div>
+
+ <div>
+  <a href="https://github.com/eagrundy">
+   <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaoyL666&layout=compact&langs_count=16&theme=dracula"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=HaoyL666&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
 </div>
 
 <hr>
@@ -31,8 +35,8 @@
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,react,nodejs,github,python,vue,javascript,css,wordpress,pr,express,styledcomponents,nextjs,graphql" /><br>
-    <img src="https://skillicons.dev/icons?i=angular,bootstrap,mongodb,mysql,django,html,redux,blender,ae,linux,vscode,heroku,figma" />
+    <img src="https://skillicons.dev/icons?i=git,react,nodejs,github,js,java,css,express,graphql,webpack" /><br>
+    <img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,grafana,mongodb,postgres,html,redux" />
 
   </a>
 </p>

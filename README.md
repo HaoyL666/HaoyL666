@@ -32,8 +32,8 @@
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,react,nodejs,github,js,java,css,express,graphql,webpack" /><br>
-    <img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,grafana,mongodb,postgres,html,redux" />
+    <img src="https://skillicons.dev/icons?i=git,react,nodejs,github,js,java,py,express,ts,webpack" /><br>
+    <img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,grafana,prometheus,mongodb,postgres,html,sass,redux" />
 
   </a>
 </p>

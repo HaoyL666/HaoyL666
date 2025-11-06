@@ -1,12 +1,12 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+Myself+Haoyu+Liu!;&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+Myself+Ethan+Liu!;&center=true&size=30">
   </a>
 </h1>
 
 <br>
 <p align="center">
-  Hi, I'm Haoyu Liu, a Software Engineer 💻
+  Hi, I'm Ethan Liu, a Software Engineer 💻
   <br>
   <br>
   🎓 Graduated from - <a href="#"><img src="./UC-Berkeley-logo.png" alt="UCB" title="UCB" align="center" width="150" height="75"/></a>
